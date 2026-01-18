@@ -38,18 +38,7 @@ A comprehensive web application designed for complete management of fencing fede
 **Key Features:** Club Management • Athlete Tracking • Event Organization • Digital Workflows
 
 
-## GitHub Stats
-
-<div align="center">
-  
-![Velis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Velis-ks&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velis-ks&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333)
-
-</div>
-
-
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Velis-ks)
 
