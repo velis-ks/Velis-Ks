@@ -5,7 +5,7 @@
 Currently studying Full Stack Development, a three-year program at International University of La Rioja (UNIR). My professional goal is to create innovative applications that improve people's daily lives by providing efficient and helpful solutions to real-life problems.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -22,7 +22,7 @@ Currently studying Full Stack Development, a three-year program at International
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
 
-## 🎯 Current Focus
+## Current Focus
 
 - 🔨 Building **[Fence-Pro](https://github.com/Velis-ks/fence-pro)** - A comprehensive web application for managing fencing federations and clubs
 - 📚 Studying Full Stack Development at UNIR
@@ -30,7 +30,7 @@ Currently studying Full Stack Development, a three-year program at International
 - 🎵 Producing music in my free time
 
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Fence-Pro
 A comprehensive web application designed for complete management of fencing federations and clubs. The platform enables coaches, sports managers, and administrators to optimize their operational processes by digitalizing tasks traditionally done manually or through scattered tools.
@@ -38,7 +38,7 @@ A comprehensive web application designed for complete management of fencing fede
 **Key Features:** Club Management • Athlete Tracking • Event Organization • Digital Workflows
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
