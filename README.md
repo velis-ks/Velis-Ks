@@ -4,7 +4,6 @@
 
 Currently studying Full Stack Development, a three-year program at International University of La Rioja (UNIR). My professional goal is to create innovative applications that improve people's daily lives by providing efficient and helpful solutions to real-life problems.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +21,6 @@ Currently studying Full Stack Development, a three-year program at International
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
----
 
 ## 🎯 Current Focus
 
@@ -31,7 +29,6 @@ Currently studying Full Stack Development, a three-year program at International
 - 🤝 Looking to collaborate on open-source projects
 - 🎵 Producing music in my free time
 
----
 
 ## 🚀 Featured Project
 
@@ -40,7 +37,6 @@ A comprehensive web application designed for complete management of fencing fede
 
 **Key Features:** Club Management • Athlete Tracking • Event Organization • Digital Workflows
 
----
 
 ## 📊 GitHub Stats
 
@@ -52,13 +48,11 @@ A comprehensive web application designed for complete management of fencing fede
 
 </div>
 
----
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Velis-ks)
 
----
 
 <p align="center">
   <i>Open to collaboration and always eager to learn</i>
