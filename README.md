@@ -1,4 +1,4 @@
-# Hi there, I'm Velis 👋
+# Hi people, I'm Velis 👋
 
 ### Full Stack Developer Student | Music Producer
 
@@ -24,10 +24,10 @@ Currently studying Full Stack Development, a three-year program at International
 
 ## Current Focus
 
-- 🔨 Building **[Fence-Pro](https://github.com/Velis-ks/fence-pro)** - A comprehensive web application for managing fencing federations and clubs
-- 📚 Studying Full Stack Development at UNIR
-- 🤝 Looking to collaborate on open-source projects
-- 🎵 Producing music in my free time
+- Building **[Fence-Pro](https://github.com/Velis-ks/fence-pro)** - A comprehensive web application for managing fencing federations and clubs
+- Studying Full Stack Development at UNIR
+- Looking to collaborate on open-source projects
+- Producing music in my free time
 
 
 ## Featured Project
